@@ -17,6 +17,6 @@ Use this skill when the user:
 - Is defining a new product marketing site, SaaS app, docs hub, blog, health plan site, or other content-heavy experience.
 - Asks for page hierarchy, sections, navigation labels, or content strategy guidance.
 
-**Do NOT use** when the user wants an XML sitemap for SEO, a technical crawl audit, or purely code-level routing with no IA decisions.
+**Do NOT use** when the user wants an XML sitemap for SEO, a technical crawl audit, or purely code-level routing with no IA decisions. We have other tools for that ;).
 
 ---
